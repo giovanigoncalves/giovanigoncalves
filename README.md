@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on PhD in the area of Metallurgical Engineering
 - 🌱 I’m currently learning Python 3, HTML5, CSS3 and JavaScript
 - 👯 I’m looking to collaborate on data processing for materials experiments (APT and synchrtron radiation data, for example) 
-- 📫 How to reach me: [ribamar.scholar](https://scholar.google.com.br/citations?user=0LzW_usAAAAJ&hl=pt-BR) or [ribamar.researchgate](https://www.researchgate.net/profile/Giovani-Ribamar)
+
+##
 
 <div align="center">
   <a href="https://github.com/giovanigoncalves">
