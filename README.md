@@ -1,6 +1,6 @@
 ## Hello! I'm Giovani G. Ribamar 👋
 
-- 🔭 I’m currently working on PhD in the area of Metallurgical Engineering
+- 🔭 I’m a PhD in the area of Materials and Metallurgical Engineering
 - 🌱 I’m currently learning Python 3, HTML5, CSS3 and JavaScript
 - 👯 I’m looking to collaborate on data processing for materials experiments (APT and synchrtron radiation data, for example) 
 
